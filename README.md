@@ -1,2 +1,2 @@
 # DSA
-This repo contains C, C++, Golang 
+This repo contains C, C++, Golang related Data Structure Algorithms.
